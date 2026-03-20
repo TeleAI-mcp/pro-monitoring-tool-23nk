@@ -1,2 +1,3 @@
-# pro-monitoring-tool-23nk
-A repository to test GitHub automation for issue management
+# Pro Monitoring Tool 23Nk
+
+A repository to test GitHub automation for issue management.
